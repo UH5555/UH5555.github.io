@@ -1,10 +1,11 @@
 # UH5555.github.io
 theme:minima
 <!DOCTYPE html>
-<script src="java.js"></script>
+
 <html>
 
   <head>
+  <script src="java.js"></script>
 
     <meta charset="UTF-8">
 
