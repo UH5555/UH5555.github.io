@@ -1,4 +1,5 @@
 # UH5555.github.io
+theme:minima
 <!DOCTYPE html>
 <script src="java.js"></script>
 <html>
