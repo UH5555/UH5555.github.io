@@ -7,7 +7,7 @@
     <style>
       label {
         display: inline-block;
-        width: 200px;
+        width: 300px;
         text-align: right;
       }
       input[type="number"] {
