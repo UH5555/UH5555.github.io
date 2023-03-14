@@ -7,7 +7,7 @@
     <style>
       label {
         display: inline-block;
-        width: 150px;
+        width: 200px;
         text-align: right;
       }
       input[type="number"] {
@@ -22,7 +22,7 @@
   <body>
     <h1>前后轴载荷计算器</h1>
     <form>
-      <label for="total-weight">车辆总重（kg）：</label>
+      <label for="total-weight">东西重量（kg）：</label>
       <input type="number" id="total-weight" required><br>
       <label for="front-axle-position">前轴位置（相对车辆前端的距离，mm）：</label>
       <input type="number" id="front-axle-position" required><br>
