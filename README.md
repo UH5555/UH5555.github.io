@@ -1,8 +1,4 @@
 # UH5555.github.io
-
-
-  <script src="java.js"></script>
-
   <!DOCTYPE html>
 <html>
   <head>
@@ -37,6 +33,6 @@
       <button type="button" onclick="calculate()">计算</button>
     </form>
     <div id="result"></div>
-    <script src="script.js"></script>
+    <script src="java.js"></script>
   </body>
 </html>
